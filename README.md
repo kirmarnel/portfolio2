@@ -8,6 +8,7 @@ This is the secound iteration of my personal portfolio. Instead of updated my la
 * CSS
 * Bulma
 * Javascript
+
 --
 ## Demo
 ![Screenshot1](assets/images/Demo1.png) 
