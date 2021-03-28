@@ -9,7 +9,6 @@ This is the secound iteration of my personal portfolio. Instead of updated my la
 * Bulma
 * Javascript
 
---
 ## Demo
 ![Screenshot1](assets/images/Demo1.png) 
 ![Screenshot1](assets/images/Demo2.png)
