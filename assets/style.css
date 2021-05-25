@@ -35,3 +35,8 @@ nav {
     box-shadow: 5px 5px rgb(168, 167, 167);
 }
 
+h2 {
+    text-align: center;
+    margin-top: 10px;
+}
+
